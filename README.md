@@ -4,8 +4,7 @@ Software Engineering Assignment #2
 This repository demonstrates basic version control operations using **Git** and **GitHub** as part of the *CINS 5318 Software Engineering* course.
 
 ## Project Description
-The project begins with a simple `Hello, World!` program and evolves through branching, feature additions, pull-requests, conflict resolution, and issue tracking.  
-It illustrates how multiple contributors can collaborate, merge changes, and maintain clean commit history.
+The project begins with a simple `Hello, World!` program and evolves through branching, feature additions, pull-requests, conflict resolution, and issue tracking. It illustrates how multiple contributors can collaborate, merge changes, and maintain clean commit history.
 
 
 ## Installation
@@ -26,8 +25,10 @@ Clone this repository and run `hello.py`.
 ## Usage Example
 
 Running hello.py prints:
+
     ```
     Hello, World!
+
     Hi! Paul Okoli
     ```
 
